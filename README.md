@@ -5,9 +5,9 @@
 <h1>K A R A M &nbsp; A L &nbsp; T A K R I T Y</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=7CE38B&center=true&vCenter=true&width=620&height=60&lines=Front-End+Developer;React+%2F+React+Native+%2F+Next.js;Unity+%2B+C%23+Game+Dev;Always+Leveling+Up+%E2%96%B0%E2%96%B0%E2%96%B0">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=1A7F37&center=true&vCenter=true&width=620&height=60&lines=Front-End+Developer;React+%2F+React+Native+%2F+Next.js;Unity+%2B+C%23+Game+Dev;Always+Leveling+Up+%E2%96%B0%E2%96%B0%E2%96%B0">
-  <img alt="Front-End Developer · React / React Native / Next.js · Unity + C# Game Dev" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=7CE38B&center=true&vCenter=true&width=620&height=60&lines=Front-End+Developer;React+%2F+React+Native+%2F+Next.js;Unity+%2B+C%23+Game+Dev;Always+Leveling+Up+%E2%96%B0%E2%96%B0%E2%96%B0">
+  <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=7CE38B&center=true&vCenter=true&width=620&height=60&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js;React+Native+%2F+Mobile+Apps;Unity+%2B+C%23+Game+Dev">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=1A7F37&center=true&vCenter=true&width=620&height=60&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js;React+Native+%2F+Mobile+Apps;Unity+%2B+C%23+Game+Dev">
+  <img alt="Full Stack Developer · React / Next.js / Node.js · React Native · Unity + C# Game Dev" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=7CE38B&center=true&vCenter=true&width=620&height=60&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js;React+Native+%2F+Mobile+Apps;Unity+%2B+C%23+Game+Dev">
 </picture>
 
 <p>
@@ -27,21 +27,33 @@
 ## 👾 Player Card
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║  PLAYER     Karam Al Takrity                               ║
-║  CLASS      Front-End Developer  //  Web + Mobile          ║
-║  WEAPONS    React · React Native · Next.js · TypeScript    ║
-║  ARMOR      Tailwind CSS · Styled Components · Three.js    ║
-║  SIDEQUEST  Unity + C# game development                    ║
-║  XP BAR     ▰▰▰▰▰▰▰▰▱▱  mastering advanced React patterns  ║
-╚════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║   ▄▀▀▀▀▀▄    K A R A M   A L   T A K R I T Y                   ║
+║   █ ▀ ▀ █    ───────────────────────────────                   ║
+║   █  ▄  █    FULL STACK DEVELOPER                              ║
+║   ▀▄▄▄▄▄▀    Web  ·  Mobile  ·  Games                          ║
+║                                                                ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║   FRONTEND  █████████████████░  React · Next.js · TypeScript   ║
+║   BACKEND   ██████████████░░░░  Node · Express · REST APIs     ║
+║   MOBILE    ███████████████░░░  React Native                   ║
+║   DATABASE  ████████████░░░░░░  MongoDB · MySQL · Supabase     ║
+║   GAME DEV  █████████░░░░░░░░░  Unity · C#                     ║
+║                                                                ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║   ▶  STATUS: building full stack apps, leveling up daily       ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-- 🔭 **Currently building** — web and mobile applications with React, React Native, Next.js and Tailwind CSS, with a focus on performance.
-- 🌱 **Currently learning** — advanced React & React Native concepts, state management with Redux and the Context API, and scalable app architecture in Next.js.
-- 👯 **Open to collaborating on** — front-end projects built on React, React Native or Next.js, especially ones that care about modern UI/UX.
+- 🔭 **Currently building** — full stack web and mobile applications: React, React Native and Next.js on the front, Node.js and Express behind them, backed by MongoDB, MySQL or Supabase.
+- 🌱 **Currently learning** — advanced React and React Native patterns, state management with Redux and the Context API, and scalable server-side rendering in Next.js.
+- 👯 **Open to collaborating on** — full stack projects built on the React/Next.js/Node stack, especially ones that care about both clean APIs and modern UI/UX.
 - 🤝 **Looking for help with** — advanced React patterns, server-side rendering in Next.js, and Tailwind CSS best practices for responsive design.
-- 💬 **Ask me about** — React component architecture, mobile development with React Native, Next.js performance tuning, and styling with Tailwind.
+- 💬 **Ask me about** — component architecture, REST API design, mobile development with React Native, Next.js performance tuning, and styling with Tailwind.
 - ⚡ **Fun fact** — React started life as a Facebook hackathon project in 2011, and is now one of the most widely used JavaScript libraries on the planet.
 
 <div align="center">
