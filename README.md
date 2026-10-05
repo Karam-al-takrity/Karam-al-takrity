@@ -2,7 +2,11 @@
 
 <!-- ░▒▓█ HERO █▓▒░ -->
 
-<h1>K A R A M &nbsp; A L &nbsp; T A K R I T Y</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Karam-al-takrity/Karam-al-takrity/main/assets/nameplate-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karam-al-takrity/Karam-al-takrity/main/assets/nameplate.svg">
+  <img alt="Karam Al Takrity" width="616" src="https://raw.githubusercontent.com/Karam-al-takrity/Karam-al-takrity/main/assets/nameplate-dark.svg">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=900&duration=2600&color=7CE38B&center=true&vCenter=true&width=620&height=60&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+Node.js;React+Native+%2F+Mobile+Apps;Unity+%2B+C%23+Game+Dev">
