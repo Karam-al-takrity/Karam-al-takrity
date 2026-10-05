@@ -36,9 +36,9 @@
 ║                                                                ║
 ╠════════════════════════════════════════════════════════════════╣
 ║                                                                ║
-║   FRONTEND  █████████████████░  React · Next.js · TypeScript   ║
+║   FRONTEND  ██████████████████  React · Next.js · TypeScript   ║
 ║   BACKEND   ██████████████░░░░  Node · Express · REST APIs     ║
-║   MOBILE    ███████████████░░░  React Native                   ║
+║   MOBILE    █████████████████░  React Native                   ║
 ║   DATABASE  ████████████░░░░░░  MongoDB · MySQL · Supabase     ║
 ║   GAME DEV  █████████░░░░░░░░░  Unity · C#                     ║
 ║                                                                ║
