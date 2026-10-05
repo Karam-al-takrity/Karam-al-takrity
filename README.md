@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/karam-al-takrity-231506270/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/@arab.quotes">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Karam-al-takrity&label=PROFILE+VIEWS&color=7CE38B&style=for-the-badge">
 </p>
 
