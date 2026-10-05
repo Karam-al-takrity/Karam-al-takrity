@@ -11,6 +11,9 @@
 </picture>
 
 <p>
+  <a href="https://karam.software">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-karam.software-7CE38B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117">
+  </a>
   <a href="https://www.linkedin.com/in/karam-al-takrity-231506270/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
